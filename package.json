@@ -1,5 +1,5 @@
 {
-  "name": "rpi3-map",
+  "name": "rpi3-pinout",
   "description": "The Raspberry Pi 3 board's GPIO header.",
   "version": "0.0.1",
   "author": {
@@ -9,7 +9,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/evanxd/rpi3-map"
+    "url": "https://github.com/evanxd/rpi3-pinout"
   },
   "keywords": [
     "iot",
