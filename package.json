@@ -1,0 +1,20 @@
+{
+  "name": "rpi3-map",
+  "description": "The Raspberry Pi 3 board's GPIO header.",
+  "version": "0.0.1",
+  "author": {
+    "name": "Evan Tseng",
+    "email": "evan@tseng.io"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evanxd/rpi3-map"
+  },
+  "keywords": [
+    "iot",
+    "iotjs",
+    "linkit",
+    "raspberry-pi"
+  ]
+}
